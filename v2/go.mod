@@ -41,7 +41,7 @@ require (
 	go.uber.org/multierr v1.11.0
 	golang.org/x/net v0.14.0
 	golang.org/x/oauth2 v0.11.0
-	golang.org/x/text v0.12.0
+	golang.org/x/text v0.14.0
 	gopkg.in/yaml.v2 v2.4.0
 	moul.io/http2curl v1.0.0
 )
@@ -216,10 +216,10 @@ require (
 	go.etcd.io/bbolt v1.3.7 // indirect
 	go.uber.org/zap v1.25.0 // indirect
 	goftp.io/server/v2 v2.0.1 // indirect
-	golang.org/x/crypto v0.12.0
+	golang.org/x/crypto v0.17.0
 	golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df
 	golang.org/x/mod v0.12.0 // indirect
-	golang.org/x/sys v0.11.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.11.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
